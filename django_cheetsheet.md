@@ -6,3 +6,6 @@ here I will note down important commands of django
 
 ## run server
 `python manage.py runserver`
+
+## create app
+`python manage.py startapp playground`
