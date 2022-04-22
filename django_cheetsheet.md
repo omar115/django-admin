@@ -1,4 +1,4 @@
-# django commands
+# django most common commands
 here I will note down important commands of django
 
 ## start project
