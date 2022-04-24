@@ -13,3 +13,8 @@ for CASCADE: if you delete A, associated B will also deleted
 for SET_NULL: if you delete A, associated B will be NULL
 for SET_DEFAULT: if you delete A, associated B will be set to a Default value
 for PROTECT: if you delete A, it will prevent the deletion of B
+
+## using contenttypes we can create generic relationships in our model
+if you go to settings.py you will see contenttypes in installed apps
+using contenttypes we can create generic relationships in our model
+that will be useful for us to manage multiple apps altogether.
