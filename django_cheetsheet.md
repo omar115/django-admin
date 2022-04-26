@@ -9,3 +9,14 @@ here I will note down important commands of django
 
 ## create app
 `python manage.py startapp playground`
+
+## sqlite migrate
+`python manage.py sqlmigrate store 0003`
+
+
+
+## make migrations
+`python manage.py makemigrations`
+
+## migrate
+`python manage.py migrate`
