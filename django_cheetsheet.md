@@ -20,3 +20,6 @@ here I will note down important commands of django
 
 ## migrate
 `python manage.py migrate`
+
+## django change admin password
+`python manage.py changepassword admin`

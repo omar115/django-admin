@@ -18,3 +18,14 @@ for PROTECT: if you delete A, it will prevent the deletion of B
 if you go to settings.py you will see contenttypes in installed apps
 using contenttypes we can create generic relationships in our model
 that will be useful for us to manage multiple apps altogether.
+
+## Django ORM (Object Relation Mapper)
+Django's ORM is just a pythonical way to create SQL to query and manipulate your database and get results in a pythonic fashion.
+
+## features of ORM
+- reduce complexity in code
+- make the code more understandable
+- help us get more done in less time
+
+## django managers
+a manager is like the interface of the database.
